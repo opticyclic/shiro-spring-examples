@@ -13,6 +13,7 @@
     <module>hash</module>
     <module>ldap</module>
     <module>ldap-and-hash</module>
+    <module>ms-active-directory</module>
   </modules>
 
   <properties>
