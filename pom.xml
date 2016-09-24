@@ -14,6 +14,7 @@
     <module>ldap</module>
     <module>ldap-and-hash</module>
     <module>ms-active-directory</module>
+    <module>ms-active-directory-custom</module>
   </modules>
 
   <properties>
